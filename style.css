@@ -469,7 +469,7 @@ padding: 20px;
   .hero{
     height: 100vh;
     flex-direction: row;
-    padding-left: 10%;
+    padding-left: 11%;
     justify-content: center;
     align-items: center;
     padding-right: 2%
