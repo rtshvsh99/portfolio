@@ -454,7 +454,7 @@ padding: 20px;
     display: none;
   }
   .nav-bar{
-    width: 10%;
+    width: 80%;
   }
   .nav-bar .nav-list ul{
     transform: translateX(0);
